@@ -11,5 +11,8 @@ You can access the full paper here: [Competition, cooperation, and parental effe
 ## History
 This project was my first experience working on a project that wasn’t solely my own. It was conducted in the Laboratory of Criminalistics at the Faculty of Law and Administration at Adam Mickiewicz University in Poznań, under the leadership of prof. UAM dr. hab. Szymon Matuszewski. The project was funded by the Polish National Science Centre, and it gave me the opportunity to apply my skills in a highly collaborative and specialized environment. It was a formative experience that allowed me to contribute to a significant forensic research initiative.
 
+## My Role
+Officially, my role in this project is outlined in the “Author contributions” section of the main text. According to the formal description: “J.W. prepared raw data for the analyses, performed analyses, discussed the results, prepared figures, and reviewed the manuscript”. But if we’re being honest, you could just say: “J.W. did all the math stuff and tried to make it look good".
+
 ## Disclaimer
 Due to the nature of the project and the data-sharing policies, I am unable to provide access to either the datasets or the R scripts used in this study. This restriction is in place because I do not have the permission of the project leader to share these materials. All analyses were conducted using R under the supervision and guidelines set by the project team.
