@@ -14,5 +14,8 @@ This project was my first experience working on a project that wasn’t solely m
 ## My Role
 Officially, my role in this project is outlined in the “Author contributions” section of the main text. According to the formal description: “J.W. prepared raw data for the analyses, performed analyses, discussed the results, prepared figures, and reviewed the manuscript”. But if we’re being honest, you could just say: “J.W. did all the math stuff and tried to make it look good".
 
+## Funding
+Completed as part of the project "Thermogenesis, feeding matrix and parental care in carrion beetle Necrodes littoralis L. (Silphidae): spatiotemporal patterns, determinants, mechanisms and fitness effects of heat production in the matrix", funded by the National Science Centre of Poland, where I contributed as a project team member. 
+
 ## Disclaimer
 Due to the nature of the project and the data-sharing policies, I am unable to provide access to either the datasets or the R scripts used in this study. This restriction is in place because I do not have the permission of the project leader to share these materials. All analyses were conducted using R under the supervision and guidelines set by the project team.
