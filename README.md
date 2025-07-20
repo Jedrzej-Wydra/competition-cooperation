@@ -2,6 +2,13 @@
 
 #### Authors: Natalia Lis, Anna Mądra-Bielewicz, Jędrzej Wydra, Szymon Matuszewski
 
+## Short summary
+Implemented and validated custom non-linear regression models in R using manual gradient descent optimization, cross-validation, and RMSE-based model selection. *(Jędrzej’s contribution)*
+
+## Technical summary
+Developed R workflows for fitting exponential, sigmoidal, polynomial, trigonometric, and hyperbolic models using manually implemented gradient descent with analytic gradients. Applied leave-one-out cross-validation and RMSE/variance metrics to evaluate model accuracy and robustness across different non-linear formulations. Visualized optimization convergence, error distributions, and comparative model performance using ggplot2 and cowplot to assess stability and fit quality. *(Jędrzej’s contribution)*
+
+
 ## Abstract
 Aggregations of juveniles are dominant forms of social life in some insect groups. Larval societies are shaped by competitive and cooperative interactions of the larvae, in parallel with parental effects. Colonies of necrophagous larvae are excellent systems to study these relationships. Necrodes littoralis (Staphylinidae: Silphinae), a carrion beetle that colonizes cadavers of large vertebrates, forms massive juvenile aggregations. By spreading over carrion anal and oral exudates, the beetles form the feeding matrix, in which the heat is produced and by which adults presumably affect the fitness of the larvae. We predict that exploitative competition shapes the behavior of N. littoralis larvae in their aggregations. However, cooperative interactions may also operate in these systems due mainly to the benefits of collective exodigestion. Moreover, indirect parental effects (i.e., formation of the feeding matrix) probably modulate larval interactions within the aggregations. By manipulating parental effects (present/absent) and larval density (0.02−1.9 larvae/g of meat), we found a strong negative group-size effect on fitness components of N. littoralis, in colonies with parental effects over almost the entire density range, and in colonies without parental effects for densities larger than 0.5 larva/g. This was accompanied by positive group-size effects in terms of development time (it shortened with larval density) and thermogenesis (it increased with larval density). A pronounced positive group-size effect on juvenile fitness was found only in colonies without parental effects and only in the low-density range. These results support the hypothesis that larval societies of N. littoralis are shaped by exploitation competition.
 
