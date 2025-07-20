@@ -2,11 +2,11 @@
 
 #### Authors: Natalia Lis, Anna Mądra-Bielewicz, Jędrzej Wydra, Szymon Matuszewski
 
-## Short summary
-Implemented and validated custom non-linear regression models in R using manual gradient descent optimization, cross-validation, and RMSE-based model selection. *(Jędrzej’s contribution)*
+## Short summary (of Jędrzej’s contribution)
+Implemented and validated custom non-linear regression models in R using manual gradient descent optimization, cross-validation, and RMSE-based model selection.
 
-## Technical summary
-Developed R workflows for fitting exponential, sigmoidal, polynomial, trigonometric, and hyperbolic models using manually implemented gradient descent with analytic gradients. Applied leave-one-out cross-validation and RMSE/variance metrics to evaluate model accuracy and robustness across different non-linear formulations. Visualized optimization convergence, error distributions, and comparative model performance using ggplot2 and cowplot to assess stability and fit quality. *(Jędrzej’s contribution)*
+## Technical summary (of Jędrzej’s contribution)
+Developed R workflows for fitting exponential, sigmoidal, polynomial, trigonometric, and hyperbolic models using manually implemented gradient descent with analytic gradients. Applied leave-one-out cross-validation and RMSE/variance metrics to evaluate model accuracy and robustness across different non-linear formulations. Visualized optimization convergence, error distributions, and comparative model performance using ggplot2 and cowplot to assess stability and fit quality.
 
 
 ## Abstract
